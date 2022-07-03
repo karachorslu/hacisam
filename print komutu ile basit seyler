@@ -1,0 +1,6 @@
+>>> print("hello world")
+hello world
+>>>print("shingo wo sasageo")
+shingo wo sasageo
+>>> print("benim adim {0}, yasim {1}" .format('Ibrahim', 16))
+benim adim Ibrahim, yasim 16
