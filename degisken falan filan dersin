@@ -1,0 +1,13 @@
+>>> sayi=10
+>>> print("sayi")
+sayi
+>>> print(sayi)
+10
+>>> print(sayi+5)
+15
+>>> print(sayi-5)
+5
+>>> print(sayi*5)
+50
+>>> print(sayi/5)
+2.0
